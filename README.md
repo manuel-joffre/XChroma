@@ -1,7 +1,7 @@
 # XChroma
 
 <a name="readme-top"></a>
-> Manage quantum yeild and photofatigue experiments
+> Manage quantum yield and photofatigue experiments
 
 
 [![Documentation](https://img.shields.io/website?url=https://alex6crbt.github.io/XChroma/)](https://alex6crbt.github.io/XChroma/)
